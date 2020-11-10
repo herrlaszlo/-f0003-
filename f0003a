@@ -1,0 +1,4 @@
+a = input('Mi a keresztneved?')
+b = input('Mi a vezetékneved?')
+
+print('A te neved' ,a,b,'.')
